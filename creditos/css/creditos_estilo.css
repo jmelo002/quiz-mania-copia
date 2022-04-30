@@ -1,0 +1,298 @@
+/* 
+Folha de estilo que configura o arquivo creditos.html
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Supermercado+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+body{
+    background-color: rgb(28, 228, 255);
+    background-image: url('../img/fundo_ceu_dia1.png');
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+}
+
+div#quizmania{
+    background-color: rgb(74, 243, 74);
+    background-image: url('../img/titulo_verde.png');
+    text-align: center;
+    min-width: 320px;
+    max-width: 1300px;
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    margin-top: 10px;
+    border-radius: 20px;
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+    box-shadow: 10px 10px 1px rgba(0, 0, 0, 0.664);
+
+}
+h1{
+    text-align: center;
+    margin-top: -10px;
+}
+div#secao{
+    min-width: 320px;
+    max-width: 970px;
+    height: 1060px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 14px;
+    padding-left: auto;
+    margin-right: auto;
+    padding-right: 20px;
+    padding-top: 1px;
+    border-radius: 20px;
+}
+
+div#guilherme{
+    background-color: gold;
+    width: 300px;
+    height: 450px;
+    border-radius: 20px;
+    padding-top: 1px;
+    padding-left: 2px;
+    padding-right: 2px;
+    margin-top: 20px;
+    box-shadow: 5px 5px 5px black;
+    border: solid 1px black;
+    
+    cursor:default;
+}
+
+strong#segredoGui{
+    margin-left: 10px;
+    font-size: 30pt;
+    font-family: 'Permanent Marker', cursive;
+    text-shadow: 2px 2px 2px rgb(80, 236, 59);
+}
+
+img#mangoImg{
+    width: 280px;
+    height: 350px;
+    margin-left: -30px;
+    margin-top: -7px;
+    box-shadow: 2px 2px 2px black;
+    cursor:pointer;
+}
+
+div#matheus{
+    background-color: white;
+    width: 300px;
+    height: 450px;
+    border-radius: 20px;
+    padding-top: 1px;
+    margin-top: -453px;
+    margin-left: 660px;
+    box-shadow: 5px 5px 5px black;
+    border: solid 1px black;
+    float:left;
+    cursor:default;
+}
+
+div#alex{
+    background-color: white;
+    width: 300px;
+    height: 450px;
+    border-radius: 20px;
+    padding-top: 1px;
+    margin-top: 57px;
+    box-shadow: 5px 5px 5px black;
+    border: solid 1px black;
+    float:left;
+    cursor:default;
+}
+
+div#pamela{
+    background-color: white;
+    width: 300px;
+    height: 450px;
+    border-radius: 20px;
+    padding-top: 1px;
+    margin-top: -453px;
+    margin-left: 30px;
+    box-shadow: 5px 5px 5px black;
+    border: solid 1px black;
+    cursor:default;
+    float: left;
+}
+
+div#bruna{
+    background-color: white;
+    width: 300px;
+    height: 450px;
+    border-radius: 20px;
+    padding-top: 1px;
+    margin-top: -453px;
+    margin-left: 660px;
+    margin-right: 10px;
+    box-shadow: 5px 5px 5px black;
+    border: solid 1px black;
+    float: left;
+    cursor:default;
+}
+
+div#jose{
+    background-color: #0084ff;
+    width: 300px;
+    height: 450px;
+    border-radius: 20px;
+    padding-top: 1px;
+    margin-top: -453px;
+    margin-left: 330px;
+    margin-right: 10px;
+    box-shadow: 5px 5px 5px black;
+    border: solid 1px black;
+    float: left;
+    cursor:default;
+}
+
+p#infoGui{
+    font-family: 'Supermercado One', cursive;
+    font-size: 18pt;
+    text-align: justify;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 1px;
+}
+
+p#infoMatheus{
+    font-family: 'Supermercado One', cursive;
+    font-size: 18pt;
+    text-align: justify;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 1px;
+}
+
+p#infoAlec{
+    font-family: 'Supermercado One', cursive;
+    font-size: 18pt;
+    text-align: justify;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 1px;
+}
+
+p#infoPan{
+    font-family: 'Supermercado One', cursive;
+    font-size: 18pt;
+    text-align: justify;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 1px;
+}
+
+p#infoBruna{
+    font-family: 'Supermercado One', cursive;
+    font-size: 18pt;
+    text-align: justify;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 1px;
+}
+
+p#infoJose{
+    font-family: 'Supermercado One', cursive;
+    font-size: 18pt;
+    text-align: justify;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 1px;
+}
+
+strong{
+    margin-left: 10px;
+    font-size: 18pt;
+    font-family: Arial;
+}
+
+strong#digitalJose{
+    color:black;
+    margin-left: 10px;
+    font-size: 18pt;
+    font-family: Arial;
+}
+
+div#botaoVoltar{
+    /*background-color:chartreuse;*/
+    width: 500px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+button#voltar{
+    color: black;
+    width: 500px;
+    height: 50px;
+    margin-top: 20px;
+    border-radius: 20px;
+    font-size: 25pt;
+    font-family: 'Pacifico', cursive;
+    box-shadow: 3px 3px 2px black;
+    cursor:pointer;
+}
+
+img#nuvem1{
+    width: 150px;
+    height: 100px;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+
+img#nuvem2{
+    width: 150px;
+    height: 100px;
+    margin-top: 40px;
+    margin-left: -20px;
+}
+
+img#nuvem3{
+    width: 190px;
+    height: 140px;
+    margin-top: 85px;
+    margin-left: 220px;
+    float:left;
+}
+
+img#nuvem4{
+    width: 150px;
+    height: 100px;
+    margin-top: 80px;
+    margin-left: -20px;
+    display: block;
+    float: left;
+}
+
+img#nuvem5{
+    width: 150px;
+    height: 100px;
+    margin-top: 80px;
+    margin-left: -30px;
+    display: block;
+    float: left;
+
+}
+
+img#nuvem6{
+    width: 150px;
+    height: 100px;
+    margin-top: 100px;
+    margin-right: -20px;
+    float: right;
+    display: block;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+    cursor: default;
+}
+
+div#rodape{
+    background: chocolate;
+}

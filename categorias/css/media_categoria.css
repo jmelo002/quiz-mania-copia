@@ -1,0 +1,648 @@
+@media screen and (max-width: 683px){
+
+    div#quizmania{
+        background: rgb(74, 243, 74);
+        background-image: url('../img/titulo_verde.png');
+        text-align: center;
+        min-width: 320px;
+        max-width: 1300px;
+        height: 80px;
+        margin-top: -8px;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 10px;
+        border-radius: 20px;
+        font-family: 'Pacifico', cursive;
+        font-size: 30px;
+        box-shadow: 10px 10px 1px rgba(0, 0, 0, 0.664);
+    }
+    h1{
+        text-align: center;
+        margin-top: -10px;
+    }
+    div#secao{
+        /*background-color: ivory;*/
+        min-width: 320px;
+        max-width: 880px;
+        height: 620px;
+        padding-top: 15px;
+        margin-left:auto;
+        margin-right: auto;
+        padding-left: 20px;
+        padding-top: 20px;
+        border-radius: 20px;
+    }
+
+    div#questoes{
+        max-width: 510px;
+        margin-right: auto;
+    }
+
+    button#filmesdescricao{
+        background-color: #00FA9A;
+        max-width: 510px;
+        height: 120px;
+        border-radius: 90px;
+        text-align: center;
+        font-family: 'Pacifico', cursive;
+        margin-top: -8px;
+        box-shadow: 1px 1px 5px black;
+        cursor: pointer;
+    }
+
+    div#imgfilme{
+        background-color: #f7f5f5;
+        width: 120px;
+        height: 120px;
+        border-radius: 90px;
+        box-shadow: 5px 5px 2px black;
+        margin-left: -20px;
+        margin-top: -135px;
+    }
+    img#filmes{
+        width: 130px;
+        height: 120px;
+        /*margin-top: 23px;*/
+        margin-left: 1px;
+    }
+    p.descricaoFilmes{
+        /*background-color: blanchedalmond;*/
+        max-width: 480px;
+        height: 100px;
+        margin-left: 130px;
+        margin-top: 10px;
+        text-align: justify;
+        font-size: 15pt;
+    }
+
+    button#seriedescricao{
+        background-color: #00FA9A;
+        max-width: 510px;
+        height: 120px;
+        border-radius: 90px;
+        text-align: center;
+        font-family: 'Pacifico', cursive;
+        margin-top: 7px;
+        box-shadow: 1px 1px 5px black;
+        cursor: pointer;
+    }
+    div#imgserie{
+        background-color: #ffffff;
+        width: 120px;
+        height: 120px;
+        border-radius: 90px;
+        box-shadow: 5px 5px 2px black;
+        margin-left: -20px;
+        margin-top: -135px;
+    }
+
+    img#serie{
+        width: 85px;
+        height: 85px;
+        margin-left: 14px;
+        margin-top: 17px;
+    }
+
+    p.descricaoSeries{
+        /*background-color: blanchedalmond;*/
+        max-width: 370px;
+        height: 100px;
+        margin-left: 130px;
+        margin-top: 10px;
+        text-align: left;
+        font-size: 15pt;
+    }
+
+    button#literaturadescricao{
+        background-color: #00FA9A;
+        max-width: 510px;
+        height: 120px;
+        border-radius: 90px;
+        text-align: center;
+        font-family: 'Pacifico', cursive;
+        margin-top: 7px;
+        box-shadow: 1px 1px 5px black;
+        cursor: pointer;
+    }
+    div#imgliteratura{
+        background-color: #A9A9A9;
+        width: 120px;
+        height: 120px;
+        border-radius: 90px;
+        box-shadow: 5px 5px 2px black;
+        margin-left: -20px;
+        margin-top: -135px;
+    }
+
+    img#literatura{
+        width: 120px;
+        height: 120px;
+        margin-left: 1px;
+    }
+
+    p.descricaoLiteratura{
+    /*background-color: blanchedalmond;*/ 
+        max-width: 370px;
+        height: 100px;
+        margin-left: 130px;
+        margin-top: 10px;
+        text-align: left;
+        font-size: 15pt;
+    }
+
+    button#musicadescricao{
+        background-color: #00FA9A;
+        max-width: 510px;
+        height: 120px;
+        border-radius: 90px;
+        text-align: center;
+        font-family: 'Pacifico', cursive;
+        margin-top: 7px;
+        box-shadow: 1px 1px 5px black;
+        cursor: pointer;
+    }
+    div#imgmusica{
+        background-color: #A9A9A9;
+        width: 120px;
+        height: 120px;
+        border-radius: 90px;
+        box-shadow: 5px 5px 2px black;
+        margin-left: -20px;
+        margin-top: -135px;
+    }
+
+    img#musica{
+        width: 125px;
+        height: 125px;
+        margin-left: -1px;
+        margin-top: -1px;
+    }
+
+    p.descricaoMusica{
+        /*background-color: blanchedalmond;*/
+        max-width: 370px;
+        height: 100px;
+        margin-left: 130px;
+        margin-top: 10px;
+        text-align: left;
+        font-size: 15pt;
+    }
+    div#botaoVoltar{
+        /*background-color: blue;*/
+        width: 300px;
+        height: 90px;
+        border-radius: 20px;
+        margin-bottom: 90px;
+        margin-top: 25px;
+        margin-left: auto;
+        margin-right: auto;
+        
+    }
+    button#voltar{
+        background-color: #858585;
+        max-width: 300px;
+        height: 90px;
+        border-radius: 20px;
+        box-shadow: 2px 2px 2px black;
+        font-family: 'Pacifico', cursive;
+        font-size: 20pt;
+        cursor: pointer;
+    }
+
+    div#rodape{
+        background: chocolate;
+    }
+}
+
+@media screen and (max-width: 568px){
+    div#quizmania{
+        background: rgb(74, 243, 74);
+        background-image: url('../img/titulo_verde.png');
+        text-align: center;
+        min-width: 320px;
+        max-width: 1300px;
+        height: 80px;
+        margin-top: -8px;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 10px;
+        border-radius: 20px;
+        font-family: 'Pacifico', cursive;
+        font-size: 30px;
+        box-shadow: 10px 10px 1px rgba(0, 0, 0, 0.664);
+    }
+    h1{
+        text-align: center;
+        margin-top: -10px;
+    }
+    div#secao{
+        /*background-color: ivory;*/
+        min-width: 320px;
+        max-width: 880px;
+        height: 620px;
+        padding-top: 15px;
+        margin-left:auto;
+        margin-right: auto;
+        padding-left: 20px;
+        padding-top: 20px;
+        border-radius: 20px;
+    }
+
+    div#questoes{
+        max-width: 510px;
+        margin-right: auto;
+    }
+
+    button#filmesdescricao{
+        background-color: #00FA9A;
+        max-width: 510px;
+        height: 120px;
+        border-radius: 90px;
+        text-align: center;
+        font-family: 'Pacifico', cursive;
+        margin-top: -8px;
+        box-shadow: 1px 1px 5px black;
+        cursor: pointer;
+    }
+
+    div#imgfilme{
+        background-color: #f7f5f5;
+        width: 120px;
+        height: 120px;
+        border-radius: 90px;
+        box-shadow: 5px 5px 2px black;
+        margin-left: -20px;
+        margin-top: -135px;
+    }
+    img#filmes{
+        width: 130px;
+        height: 120px;
+        /*margin-top: 23px;*/
+        margin-left: 1px;
+    }
+    p.descricaoFilmes{
+        /*background-color: blanchedalmond;*/
+        max-width: 480px;
+        height: 100px;
+        margin-left: 130px;
+        margin-top: 10px;
+        text-align: justify;
+        font-size: 15pt;
+    }
+
+    button#seriedescricao{
+        background-color: #00FA9A;
+        max-width: 510px;
+        height: 120px;
+        border-radius: 90px;
+        text-align: center;
+        font-family: 'Pacifico', cursive;
+        margin-top: 7px;
+        box-shadow: 1px 1px 5px black;
+        cursor: pointer;
+    }
+    div#imgserie{
+        background-color: #ffffff;
+        width: 120px;
+        height: 120px;
+        border-radius: 90px;
+        box-shadow: 5px 5px 2px black;
+        margin-left: -20px;
+        margin-top: -135px;
+    }
+
+    img#serie{
+        width: 85px;
+        height: 85px;
+        margin-left: 14px;
+        margin-top: 17px;
+    }
+
+    p.descricaoSeries{
+        /*background-color: blanchedalmond;*/
+        max-width: 370px;
+        height: 100px;
+        margin-left: 130px;
+        margin-top: 10px;
+        text-align: left;
+        font-size: 15pt;
+    }
+
+    button#literaturadescricao{
+        background-color: #00FA9A;
+        max-width: 510px;
+        height: 120px;
+        border-radius: 90px;
+        text-align: center;
+        font-family: 'Pacifico', cursive;
+        margin-top: 7px;
+        box-shadow: 1px 1px 5px black;
+        cursor: pointer;
+    }
+    div#imgliteratura{
+        background-color: #A9A9A9;
+        width: 120px;
+        height: 120px;
+        border-radius: 90px;
+        box-shadow: 5px 5px 2px black;
+        margin-left: -20px;
+        margin-top: -135px;
+    }
+
+    img#literatura{
+        width: 120px;
+        height: 120px;
+        margin-left: 1px;
+    }
+
+    p.descricaoLiteratura{
+    /*background-color: blanchedalmond;*/ 
+        max-width: 370px;
+        height: 100px;
+        margin-left: 130px;
+        margin-top: 10px;
+        text-align: left;
+        font-size: 15pt;
+    }
+
+    button#musicadescricao{
+        background-color: #00FA9A;
+        max-width: 510px;
+        height: 120px;
+        border-radius: 90px;
+        text-align: center;
+        font-family: 'Pacifico', cursive;
+        margin-top: 7px;
+        box-shadow: 1px 1px 5px black;
+        cursor: pointer;
+    }
+    div#imgmusica{
+        background-color: #A9A9A9;
+        width: 120px;
+        height: 120px;
+        border-radius: 90px;
+        box-shadow: 5px 5px 2px black;
+        margin-left: -20px;
+        margin-top: -135px;
+    }
+
+    img#musica{
+        width: 125px;
+        height: 125px;
+        margin-left: -1px;
+        margin-top: -1px;
+    }
+
+    p.descricaoMusica{
+        /*background-color: blanchedalmond;*/
+        max-width: 370px;
+        height: 100px;
+        margin-left: 130px;
+        margin-top: 10px;
+        text-align: left;
+        font-size: 15pt;
+    }
+    div#botaoVoltar{
+        /*background-color: blue;*/
+        width: 300px;
+        height: 90px;
+        border-radius: 20px;
+        margin-bottom: 90px;
+        margin-top: 25px;
+        margin-left: auto;
+        margin-right: auto;
+        
+    }
+    button#voltar{
+        background-color: #858585;
+        max-width: 300px;
+        height: 90px;
+        border-radius: 20px;
+        box-shadow: 2px 2px 2px black;
+        font-family: 'Pacifico', cursive;
+        font-size: 20pt;
+        cursor: pointer;
+    }
+
+    div#rodape{
+        background: chocolate;
+    }
+}
+
+@media screen and (max-width: 474px){
+    div#quizmania{
+        background: rgb(74, 243, 74);
+        background-image: url('../img/titulo_verde.png');
+        background-size: cover;
+        text-align: center;
+        min-width: 300px;
+        max-width: 1300px;
+        height: 80px;
+        margin-top: 10px;
+        margin-left: 15%;
+        padding-top: 10px;
+        border-radius: 20px;
+        font-family: 'Pacifico', cursive;
+        font-size: 20px;
+        box-shadow: 10px 10px 1px rgba(0, 0, 0, 0.664);
+    }
+    h1{
+        text-align: center;
+        margin-top: 7px;
+    }
+    div#secao{
+        min-width: 320px;
+        max-width: 880px;
+        height: 620px;
+        margin-left:10%;
+        padding-top: 15px;
+        border-radius: 20px;
+    }
+
+    div#questoes{
+        max-width: 320px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    button#filmesdescricao{
+        background-color: #00FA9A;
+        max-width: 320px;
+        height: 120px;
+        border-radius: 90px;
+        font-family: 'Pacifico', cursive;
+        margin-top: 8px;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 1px 1px 5px black;
+        cursor: pointer;
+    }
+
+    div#imgfilme{
+        background-color: #f7f5f5;
+        width: 80px;
+        height: 90px;
+        border-radius: 90px;
+        box-shadow: 5px 5px 2px black;
+        margin-left: 3px;
+        margin-top: -70px;
+        display: none;
+
+    }
+    img#filmes{
+        width: 100px;
+        height: 90px;
+        margin-left: -2px;
+    }
+    p.descricaoFilmes{
+        max-width: 100px;
+        height: 80px;
+        margin-left: 20px;
+        margin-top: 10px;
+        text-align: left;
+        font-size: 14pt;
+    }
+
+    button#seriedescricao{
+        background-color: #00FA9A;
+        max-width: 320px;
+        height: 120px;
+        border-radius: 90px;
+        text-align: center;
+        font-family: 'Pacifico', cursive;
+        margin-top: 7px;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 1px 1px 5px black;
+        cursor: pointer;
+    }
+    div#imgserie{
+        background-color: #ffffff;
+        width: 120px;
+        height: 120px;
+        border-radius: 90px;
+        box-shadow: 5px 5px 2px black;
+        margin-left: -20px;
+        margin-top: -135px;
+        display: none;
+    }
+
+    img#serie{
+        width: 85px;
+        height: 85px;
+        margin-left: 14px;
+        margin-top: 17px;
+    }
+
+    p.descricaoSeries{
+        max-width: 290px;
+        height: 80px;
+        margin-left: 20px;
+        margin-top: 10px;
+        text-align: left;
+        font-size: 14pt;
+    }
+
+    button#literaturadescricao{
+        background-color: #00FA9A;
+        max-width: 320px;
+        height: 120px;
+        border-radius: 90px;
+        text-align: center;
+        font-family: 'Pacifico', cursive;
+        margin-top: 7px;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 1px 1px 5px black;
+        cursor: pointer;
+    }
+    div#imgliteratura{
+        background-color: #A9A9A9;
+        width: 120px;
+        height: 120px;
+        border-radius: 90px;
+        box-shadow: 5px 5px 2px black;
+        margin-left: -20px;
+        margin-top: -135px;
+        display: none;
+    }
+
+    img#literatura{
+        width: 120px;
+        height: 120px;
+        margin-left: 1px;
+    }
+
+    p.descricaoLiteratura{
+        max-width: 290px;
+        height: 80px;
+        margin-left: 20px;
+        margin-top: 10px;
+        text-align: left;
+        font-size: 14pt;
+    }
+
+    button#musicadescricao{
+        background-color: #00FA9A;
+        max-width: 320px;
+        height: 120px;
+        border-radius: 90px;
+        text-align: center;
+        font-family: 'Pacifico', cursive;
+        margin-top: 7px;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 1px 1px 5px black;
+        cursor: pointer;
+    }
+    div#imgmusica{
+        background-color: #A9A9A9;
+        width: 120px;
+        height: 120px;
+        border-radius: 90px;
+        box-shadow: 5px 5px 2px black;
+        margin-left: -20px;
+        margin-top: -135px;
+        display: none;
+    }
+
+    img#musica{
+        width: 125px;
+        height: 125px;
+        margin-left: -1px;
+        margin-top: -1px;
+    }
+
+    p.descricaoMusica{
+        max-width: 370px;
+        height: 800px;
+        margin-left: 10px;
+        margin-top: 10px;
+        text-align: left;
+        font-size: 14pt;
+    }
+    div#botaoVoltar{
+        width: 300px;
+        height: 90px;
+        border-radius: 20px;
+        margin-bottom: 90px;
+        margin-top: 15px;
+        margin-left: auto;
+        margin-right: auto;
+        
+    }
+    button#voltar{
+        background-color: #858585;
+        max-width: 300px;
+        height: 90px;
+        border-radius: 20px;
+        box-shadow: 2px 2px 2px black;
+        font-family: 'Pacifico', cursive;
+        font-size: 20pt;
+        cursor: pointer;
+    }
+
+    div#rodape{
+        background: chocolate;
+    } 
+}

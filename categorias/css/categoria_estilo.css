@@ -1,0 +1,235 @@
+/* 
+Folha de estilo que configura o arquivo categoria2.html
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+body{
+    background-color: rgb(92, 247, 78);
+    background-image: url('../img/fundo\ verde.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    
+}
+div#mascote{
+    background-color: rgb(248, 245, 48);
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+    margin-top: -130px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 2px black;
+}
+
+img#mascote{
+    width: 100px;
+    height: 100px;
+}
+
+div#quizmania{
+    background: rgb(74, 243, 74);
+    background-image: url('../img/titulo_verde.png');
+    background-size: cover;
+    text-align: center;
+    min-width: 320px;
+    max-width: 1300px;
+    height: 80px;
+    margin-top: 1px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    border-radius: 20px;
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+    box-shadow: 10px 10px 1px rgba(0, 0, 0, 0.664);
+}
+h1{
+    text-align: center;
+    margin-top: -7px;
+}
+div#secao{
+    min-width: 320px;
+    max-width: 800px;
+    height: 620px;
+    margin-top: 15px;
+    margin-left:auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 30px;
+    border-radius: 20px;
+}
+
+div#questoes{
+    width: 760px;
+    margin-right: auto;
+}
+
+button#filmesdescricao{
+    background-color: #00FA9A;
+    width: 760px;
+    height: 120px;
+    border-radius: 90px;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    margin-top: -8px;
+    box-shadow: 1px 1px 5px black;
+    cursor: pointer;
+}
+
+div#imgfilme{
+    background-color: #f7f5f5;
+    width: 120px;
+    height: 120px;
+    border-radius: 90px;
+    box-shadow: 5px 5px 2px black;
+    margin-left: -20px;
+    margin-top: -135px;
+}
+img#filmes{
+    width: 130px;
+    height: 120px;
+    margin-left: 1px;
+}
+p.descricaoFilmes{
+    min-width: 320px;
+    max-width: 580px;
+    height: 100px;
+    margin-left: 130px;
+    margin-top: 10px;
+    text-align: left;
+    font-size: 15pt;
+}
+
+button#seriedescricao{
+    background-color: #00FA9A;
+    width: 760px;
+    height: 120px;
+    border-radius: 90px;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    margin-top: 7px;
+    box-shadow: 1px 1px 5px black;
+    cursor: pointer;
+}
+div#imgserie{
+    background-color: #ffffff;
+    width: 120px;
+    height: 120px;
+    border-radius: 90px;
+    box-shadow: 5px 5px 2px black;
+    margin-left: -20px;
+    margin-top: -135px;
+}
+
+img#serie{
+    width: 85px;
+    height: 85px;
+    margin-left: 14px;
+    margin-top: 17px;
+}
+
+p.descricaoSeries{
+    width: 580px;
+    height: 100px;
+    margin-left: 130px;
+    margin-top: 10px;
+    text-align: left;
+    font-size: 15pt;
+}
+
+button#literaturadescricao{
+    background-color: #00FA9A;
+    width: 760px;
+    height: 120px;
+    border-radius: 90px;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    margin-top: 7px;
+    box-shadow: 1px 1px 5px black;
+    cursor: pointer;
+}
+div#imgliteratura{
+    background-color: #A9A9A9;
+    width: 120px;
+    height: 120px;
+    border-radius: 90px;
+    box-shadow: 5px 5px 2px black;
+    margin-left: -20px;
+    margin-top: -135px;
+}
+
+img#literatura{
+    width: 120px;
+    height: 120px;
+    margin-left: 1px;
+}
+
+p.descricaoLiteratura{
+    width: 580px;
+    height: 100px;
+    margin-left: 130px;
+    margin-top: 10px;
+    text-align: left;
+    font-size: 15pt;
+}
+
+button#musicadescricao{
+    background-color: #00FA9A;
+    width: 760px;
+    height: 120px;
+    border-radius: 90px;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    margin-top: 7px;
+    box-shadow: 1px 1px 5px black;
+    cursor: pointer;
+}
+div#imgmusica{
+    background-color: #A9A9A9;
+    width: 120px;
+    height: 120px;
+    border-radius: 90px;
+    box-shadow: 5px 5px 2px black;
+    margin-left: -20px;
+    margin-top: -135px;
+}
+
+img#musica{
+    width: 125px;
+    height: 125px;
+    margin-left: -1px;
+    margin-top: -1px;
+}
+
+p.descricaoMusica{
+    width: 580px;
+    height: 100px;
+    margin-left: 130px;
+    margin-top: 10px;
+    text-align: left;
+    font-size: 15pt;
+}
+div#botaoVoltar{
+    width: 500px;
+    height: 90px;
+    border-radius: 20px;
+    margin-bottom: 90px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+button#voltar{
+    background-color: #858585;
+    width: 500px;
+    height: 90px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px black;
+    font-family: 'Pacifico', cursive;
+    font-size: 20pt;
+    cursor: pointer;
+}
+
+div#rodape{
+    background: chocolate;
+}

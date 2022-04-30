@@ -1,0 +1,91 @@
+/* 
+Folha de estilo que configura o arquivo menu.html
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+body{
+    background-color: rgb(88, 248, 88);
+    background-image: url(../img/fundo_menu.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+}
+div#mascote{
+    background-color: rgb(248, 245, 48);
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+    margin-top: -130px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 2px black;
+}
+div#quizmania{
+    background-color: rgb(74, 243, 74);
+    background-image: url('../img/titulo_verde.png');
+    background-size: cover;
+    text-align: center;
+    min-width: 320px;
+    max-width: 1300px;
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    border-radius: 20px;
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+    box-shadow: 10px 10px 1px rgba(0, 0, 0, 0.664);
+
+}
+h1{
+    text-align: center;
+    margin-top: -10px;
+}
+div#secao{
+    width: 300px;
+    height: 440px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4%;
+}
+
+
+input#categoria{
+    background-color: #D3D3D3;
+    margin-top: 6%;
+    width: 300px;
+    height: 100px;
+    border-radius: 90px;
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+    box-shadow: 3px 4px 2px rgb(7, 7, 7);
+    cursor: pointer;
+}
+
+input#creditos{
+    background-color: #D3D3D3;
+    margin-top: 13%;
+    width: 300px;
+    height: 100px;
+    border-radius: 90px;
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+    box-shadow: 3px 4px 2px rgb(7, 7, 7);
+    cursor: pointer;
+}
+
+input#sair{
+    background-color: #D3D3D3;
+    margin-top: 13%;
+    width: 300px;
+    height: 100px;
+    border-radius: 90px;
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+    box-shadow: 3px 4px 2px rgb(7, 7, 7);
+    cursor: pointer;
+}
+
+div#rodape{
+    background: chocolate;
+}

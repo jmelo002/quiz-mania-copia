@@ -1,0 +1,151 @@
+/* 
+Folha de estilo que configura o arquivo questoes.html
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+body{
+    background-color: #f8eded;
+    /*background-image: url(../img/fundo_menu.jpg);*/
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+}
+div#mascote{
+    background-color: rgb(248, 245, 48);
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+    margin-top: -130px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 2px black;
+}
+
+div#quizmania{
+    background: rgb(74, 243, 74);
+    background-image: url('../img/titulo_verde.png');
+    text-align: center;
+    min-width: 320px;
+    max-width: 1300px;
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    margin-top: 10px;
+    border-radius: 20px;
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+    box-shadow: 10px 10px 1px rgba(0, 0, 0, 0.664);
+
+}
+h1{
+    text-align: center;
+    margin-top: -10px;
+}
+div#secao{
+    background-color: rgb(175, 4, 4);
+    min-width: 320px;
+    max-width: 800px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 14px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 6px black;
+}
+
+div#perguntaDescri{
+    background-color: rgb(245, 228, 79);
+    color:rgb(7, 7, 7);
+    text-align: center;
+    width: 320px;
+    height: 470px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 6px rgb(8, 8, 8);
+    font-family: 'Pacifico', cursive;
+    font-size: 20pt;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    float:left;
+}
+
+div#questoes{
+    /*background-color: rgb(146, 146, 145);*/
+    
+    
+    width: 470px;
+    height: 470px;
+    margin-left: 322px;
+    margin-top: 10px;
+    padding-top: 1px;
+    padding-left: 7px;
+}
+
+button#alt1{
+    background-color: #D3D3D3;
+    width: 440px;
+    height: 90px;
+    border-radius: 20px;
+    margin-top: 10px;
+    box-shadow: -5px 5px 5px black;
+    font-size: 15pt;
+    font-family: 'Pacifico', cursive;
+    cursor: pointer;
+}
+
+button#alt2{
+    background-color: #D3D3D3;
+    width: 440px;
+    height: 90px;
+    border-radius: 20px;
+    box-shadow: -5px 5px 5px black;
+    font-size: 15pt;
+    font-family: 'Pacifico', cursive;
+    cursor: pointer;
+}
+
+button#alt3{
+    background-color: #D3D3D3;
+    width: 440px;
+    height: 90px;
+    border-radius: 20px;
+    box-shadow: -5px 5px 5px black;
+    font-size: 15pt;
+    font-family: 'Pacifico', cursive;
+    cursor: pointer;
+}
+
+button#alt4{
+    background-color: #D3D3D3;
+    width: 440px;
+    height: 90px;
+    border-radius: 20px;
+    box-shadow: -5px 5px 5px black;
+    font-size: 15pt;
+    font-family: 'Pacifico', cursive;
+    cursor: pointer;
+}
+strong#pontos{
+    font-size: 200pt;
+}
+
+p#mensagemPont{
+    font-family: normal Arial;
+    font-size: 30pt;
+    text-align: center;
+    margin-top: 150px;
+}
+
+a{
+    color:black;
+    text-decoration: none;
+}
+
+div#rodape{
+    background: chocolate;
+}
+

@@ -1,0 +1,689 @@
+@media screen and (max-width: 824px){
+    div#secao{
+        max-width: 614px;
+        height: 860px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 14px;
+        padding-left: auto;
+        margin-right: auto;
+        padding-right: 20px;
+        padding-top: 1px;
+        border-radius: 20px;
+    }
+    div#guilherme{
+        background-color: gold;
+        max-width: 200px;
+        height: 350px;
+        border-radius: 20px;
+        padding-top: 1px;
+        padding-left: 2px;
+        padding-right: 2px;
+        margin-top: 20px;
+        box-shadow: 5px 5px 5px black;
+        border: solid 1px black;
+        
+        cursor:default;
+    }
+    img#mangoImg{
+        width: 180px;
+        height: 250px;
+        margin-left: -30px;
+        margin-top: -7px;
+        box-shadow: 2px 2px 2px black;
+        cursor:pointer;
+    }
+    div#matheus{
+        background-color: white;
+        max-width: 200px;
+        height: 350px;
+        border-radius: 20px;
+        padding-top: 1px;
+        margin-top: -353px;
+        margin-left: 430px;
+        box-shadow: 5px 5px 5px black;
+        border: solid 1px black;
+        float:left;
+        cursor:default;
+    }
+    div#alex{
+        background-color: white;
+        max-width: 200px;
+        height: 350px;
+        border-radius: 20px;
+        padding-top: 1px;
+        margin-top: 27px;
+        box-shadow: 5px 5px 5px black;
+        border: solid 1px black;
+        float:left;
+        cursor:default;
+    }
+    
+    div#pamela{
+        background-color: white;
+        max-width: 200px;
+        height: 350px;
+        border-radius: 20px;
+        padding-top: 1px;
+        margin-top: -353px;
+        margin-left: 15px;
+        box-shadow: 5px 5px 5px black;
+        border: solid 1px black;
+        cursor:default;
+        float: left;
+    }
+    
+    div#bruna{
+        background-color: white;
+        max-width: 200px;
+        height: 350px;
+        border-radius: 20px;
+        padding-top: 1px;
+        margin-top: -353px;
+        margin-left: 430px;
+        margin-right: 10px;
+        box-shadow: 5px 5px 5px black;
+        border: solid 1px black;
+        float: left;
+        cursor:default;
+    }
+    
+    div#jose{
+        background-color: #0084ff;
+        max-width: 200px;
+        height: 350px;
+        border-radius: 20px;
+        padding-top: 1px;
+        margin-top: -353px;
+        margin-left: 215px;
+        margin-right: 10px;
+        box-shadow: 5px 5px 5px black;
+        border: solid 1px black;
+        float: left;
+        cursor:default;
+    }
+    p#infoGui{
+        font-family: 'Supermercado One', cursive;
+        font-size: 14pt;
+        text-align: justify;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-bottom: 1px;
+    }
+    
+    p#infoMatheus{
+        font-family: 'Supermercado One', cursive;
+        font-size: 14pt;
+        text-align: justify;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-bottom: 1px;
+    }
+    
+    p#infoAlec{
+        font-family: 'Supermercado One', cursive;
+        font-size: 13pt;
+        text-align: justify;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-bottom: 1px;
+    }
+    
+    p#infoPan{
+        font-family: 'Supermercado One', cursive;
+        font-size: 14pt;
+        text-align: justify;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-bottom: 1px;
+    }
+    
+    p#infoBruna{
+        font-family: 'Supermercado One', cursive;
+        font-size: 14pt;
+        text-align: justify;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-bottom: 1px;
+    }
+    
+    p#infoJose{
+        font-family: 'Supermercado One', cursive;
+        font-size: 14pt;
+        text-align: justify;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-bottom: 1px;
+    }
+    img#nuvem1{
+        width: 150px;
+        height: 100px;
+        margin-top: 50px;
+        margin-left: 200px;
+        display: none;
+    }
+    
+    img#nuvem2{
+        width: 150px;
+        height: 100px;
+        margin-top: 40px;
+        margin-left: -20px;
+        display: none;
+    }
+    
+    img#nuvem3{
+        width: 190px;
+        height: 140px;
+        margin-top: 85px;
+        margin-left: 220px;
+        float:left;
+        display: none;
+    }
+    
+    img#nuvem4{
+        width: 150px;
+        height: 100px;
+        margin-top: 80px;
+        margin-left: -20px;
+        display: block;
+        float: left;
+        display: none;
+    }
+    
+    img#nuvem5{
+        width: 150px;
+        height: 100px;
+        margin-top: 80px;
+        margin-left: -30px;
+        display: block;
+        float: left;
+        display: none;
+    }
+    
+    img#nuvem6{
+        width: 150px;
+        height: 100px;
+        margin-top: 100px;
+        margin-right: -20px;
+        float: right;
+        display: none;
+    }
+}
+@media screen and (max-width: 752px){
+    
+}
+@media screen and (max-width: 683px){
+    div#quizmania{
+        background: rgb(74, 243, 74);
+        background-image: url('../img/titulo_verde.png');
+        text-align: center;
+        min-width: 320px;
+        max-width: 1300px;
+        height: 80px;
+        margin-left: 25px;
+        padding-top: 10px;
+        margin-top: 10px;
+        border-radius: 20px;
+        font-family: 'Pacifico', cursive;
+        font-size: 20px;
+        box-shadow: 10px 10px 1px rgba(0, 0, 0, 0.664);
+    }
+
+    div#secao{
+        max-width: 420px;
+        height: 1220px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 14px;
+        padding-left: auto;
+        margin-right: auto;
+        padding-right: 0px;
+        padding-top: 1px;
+        border-radius: 20px;
+    }
+    div#guilherme{
+        background-color: gold;
+        max-width: 200px;
+        height: 350px;
+        border-radius: 20px;
+        padding-top: 1px;
+        padding-left: 2px;
+        padding-right: 2px;
+
+        box-shadow: 5px 5px 5px black;
+        border: solid 1px black;
+        
+        cursor:default;
+    }
+    div#matheus{
+        background-color: white;
+        max-width: 200px;
+        height: 350px;
+        border-radius: 20px;
+        padding-top: 1px;
+        margin-left: 215px;
+        box-shadow: 5px 5px 5px black;
+        border: solid 1px black;
+        cursor:default;
+    }
+    div#alex{
+        background-color: white;
+        max-width: 200px;
+        height: 350px;
+        border-radius: 20px;
+        box-shadow: 5px 5px 5px black;
+        border: solid 1px black;
+
+        cursor:default;
+    }
+    
+    div#pamela{
+        background-color: white;
+        max-width: 200px;
+        height: 350px;
+        border-radius: 20px;
+        padding-top: 1px;
+        margin-top: 27px;
+        margin-left: 10px;
+        box-shadow: 5px 5px 5px black;
+        border: solid 1px black;
+        cursor:default;
+    }
+    
+    div#bruna{
+        background-color: white;
+        max-width: 200px;
+        height: 350px;
+        border-radius: 20px;
+        padding-top: 1px;
+        margin-top: 27px;
+        margin-left: 0px;
+        box-shadow: 5px 5px 5px black;
+        border: solid 1px black;
+
+        cursor:default;
+    }
+    
+    div#jose{
+        background-color: #0084ff;
+        max-width: 200px;
+        height: 350px;
+        border-radius: 20px;
+        padding-top: 1px;
+        
+
+        box-shadow: 5px 5px 5px black;
+        border: solid 1px black;
+
+        cursor:default;
+    }
+    p#infoGui{
+        font-family: 'Supermercado One', cursive;
+        font-size: 14pt;
+        text-align: justify;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-bottom: 1px;
+    }
+    
+    p#infoMatheus{
+        font-family: 'Supermercado One', cursive;
+        font-size: 14pt;
+        text-align: justify;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-bottom: 1px;
+    }
+    
+    p#infoAlec{
+        font-family: 'Supermercado One', cursive;
+        font-size: 13pt;
+        text-align: justify;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-bottom: 1px;
+    }
+    
+    p#infoPan{
+        font-family: 'Supermercado One', cursive;
+        font-size: 14pt;
+        text-align: justify;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-bottom: 1px;
+    }
+    
+    p#infoBruna{
+        font-family: 'Supermercado One', cursive;
+        font-size: 14pt;
+        text-align: justify;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-bottom: 1px;
+    }
+    
+    p#infoJose{
+        font-family: 'Supermercado One', cursive;
+        font-size: 14pt;
+        text-align: justify;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-bottom: 1px;
+    }
+    div#botaoVoltar{
+        width: 400px;
+        height: 50px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 780px;
+    }
+    button#voltar{
+        color: black;
+        max-width: 400px;
+        height: 50px;
+        margin-top: 0px;
+        border-radius: 20px;
+        font-size: 25pt;
+        font-family: 'Pacifico', cursive;
+        box-shadow: 3px 3px 2px black;
+        cursor:pointer;
+    }
+    img#nuvem1{
+        width: 150px;
+        height: 100px;
+        margin-top: 50px;
+        margin-left: 200px;
+        display: none;
+    }
+    
+    img#nuvem2{
+        width: 150px;
+        height: 100px;
+        margin-top: 40px;
+        margin-left: -20px;
+        display: none;
+    }
+    
+    img#nuvem3{
+        width: 190px;
+        height: 140px;
+        margin-top: 85px;
+        margin-left: 220px;
+        float:left;
+        display: none;
+    }
+    
+    img#nuvem4{
+        width: 150px;
+        height: 100px;
+        margin-top: 80px;
+        margin-left: -20px;
+        display: block;
+        float: left;
+        display: none;
+    }
+    
+    img#nuvem5{
+        width: 150px;
+        height: 100px;
+        margin-top: 80px;
+        margin-left: -30px;
+        display: block;
+        float: left;
+        display: none;
+    }
+    
+    img#nuvem6{
+        width: 150px;
+        height: 100px;
+        margin-top: 100px;
+        margin-right: -20px;
+        float: right;
+        display: none;
+    }
+}
+@media screen and (max-width: 568px){
+    
+}
+@media screen and (max-width: 474px){
+    div#quizmania{
+        background: rgb(74, 243, 74);
+        background-image: url('../img/titulo_verde.png');
+        text-align: center;
+        min-width: 320px;
+        max-width: 1300px;
+        height: 80px;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 10px;
+        margin-top: 10px;
+        border-radius: 20px;
+        font-family: 'Pacifico', cursive;
+        font-size: 15px;
+        box-shadow: 10px 10px 1px rgba(0, 0, 0, 0.664);
+    }
+    h1{
+        text-align: center;
+        margin-top: 7px;
+    }
+
+    div#secao{
+        max-width: 120px;
+        height: 2420px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 14px;
+        padding-left: auto;
+        margin-right: auto;
+        padding-right: 0px;
+        padding-top: 1px;
+        border-radius: 20px;
+    }
+    div#guilherme{
+        background-color: gold;
+        max-width: 200px;
+        height: 350px;
+        border-radius: 20px;
+        padding-top: 1px;
+        padding-left: 2px;
+        padding-right: 2px;
+        margin-left: 20%;
+        margin-right: 20%;
+        box-shadow: 5px 5px 5px black;
+        border: solid 1px black;
+        
+        cursor:default;
+    }
+    div#matheus{
+        background-color: white;
+        max-width: 200px;
+        height: 350px;
+        border-radius: 20px;
+        padding-top: 1px;
+        margin-left: 20%;
+        margin-right: 20%;
+        margin-top: 30px;
+        box-shadow: 5px 5px 5px black;
+        border: solid 1px black;
+        cursor:default;
+    }
+    div#alex{
+        background-color: white;
+        max-width: 200px;
+        height: 350px;
+        border-radius: 20px;
+        box-shadow: 5px 5px 5px black;
+        border: solid 1px black;
+        margin-left: 20%;
+        margin-right: 20%;
+        cursor:default;
+    }
+    
+    div#pamela{
+        background-color: white;
+        max-width: 200px;
+        height: 350px;
+        border-radius: 20px;
+        padding-top: 1px;
+        margin-top: 27px;
+        margin-left: 20%;
+        margin-right: 20%;
+        box-shadow: 5px 5px 5px black;
+        border: solid 1px black;
+        cursor:default;
+    }
+    
+    div#bruna{
+        background-color: white;
+        max-width: 200px;
+        height: 350px;
+        border-radius: 20px;
+        padding-top: 1px;
+        margin-top: 27px;
+        margin-left: 20%;
+        margin-right: 20%;
+        box-shadow: 5px 5px 5px black;
+        border: solid 1px black;
+
+        cursor:default;
+    }
+    
+    div#jose{
+        background-color: #0084ff;
+        max-width: 200px;
+        height: 350px;
+        border-radius: 20px;
+        padding-top: 1px;
+        margin-top: 30px;
+        margin-left: 20%;
+        margin-right: 20%;
+        box-shadow: 5px 5px 5px black;
+        border: solid 1px black;
+
+        cursor:default;
+    }
+    p#infoGui{
+        font-family: 'Supermercado One', cursive;
+        font-size: 14pt;
+        text-align: justify;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-bottom: 1px;
+    }
+    
+    p#infoMatheus{
+        font-family: 'Supermercado One', cursive;
+        font-size: 14pt;
+        text-align: justify;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-bottom: 1px;
+    }
+    
+    p#infoAlec{
+        font-family: 'Supermercado One', cursive;
+        font-size: 13pt;
+        text-align: justify;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-bottom: 1px;
+    }
+    
+    p#infoPan{
+        font-family: 'Supermercado One', cursive;
+        font-size: 14pt;
+        text-align: justify;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-bottom: 1px;
+    }
+    
+    p#infoBruna{
+        font-family: 'Supermercado One', cursive;
+        font-size: 14pt;
+        text-align: justify;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-bottom: 1px;
+    }
+    
+    p#infoJose{
+        font-family: 'Supermercado One', cursive;
+        font-size: 14pt;
+        text-align: justify;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-bottom: 1px;
+    }
+    div#botaoVoltar{
+        width: 200px;
+        height: 50px;
+        margin-left: 20%;
+        margin-right: 20%;
+        margin-top: 1930px;
+    }
+    button#voltar{
+        color: black;
+        max-width: 200px;
+        height: 50px;
+        margin-top: 0px;
+        border-radius: 20px;
+        font-size: 25pt;
+        font-family: 'Pacifico', cursive;
+        box-shadow: 3px 3px 2px black;
+        cursor:pointer;
+    }
+    img#nuvem1{
+        width: 150px;
+        height: 100px;
+        margin-top: 50px;
+        margin-left: 200px;
+        display: none;
+    }
+    
+    img#nuvem2{
+        width: 150px;
+        height: 100px;
+        margin-top: 40px;
+        margin-left: -20px;
+        display: none;
+    }
+    
+    img#nuvem3{
+        width: 190px;
+        height: 140px;
+        margin-top: 85px;
+        margin-left: 220px;
+        float:left;
+        display: none;
+    }
+    
+    img#nuvem4{
+        width: 150px;
+        height: 100px;
+        margin-top: 80px;
+        margin-left: -20px;
+        display: block;
+        float: left;
+        display: none;
+    }
+    
+    img#nuvem5{
+        width: 150px;
+        height: 100px;
+        margin-top: 80px;
+        margin-left: -30px;
+        display: block;
+        float: left;
+        display: none;
+    }
+    
+    img#nuvem6{
+        width: 150px;
+        height: 100px;
+        margin-top: 100px;
+        margin-right: -20px;
+        float: right;
+        display: none;
+    }
+}

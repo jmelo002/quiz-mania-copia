@@ -1,0 +1,73 @@
+quiz música
+
+1 - Quantas cordas tem o violino ?
+
+A 3 **
+B 4
+C 5
+D 6
+
+2 - Quantas cordas tem o violão ?
+
+A 3
+B 4
+C 5
+D 6 **
+
+3 - Qual o nome da parte do violão que segura as cordas ?
+
+A Traste
+B Capotraste
+C Tarraxa **
+D Afinador
+
+4 - Qual peça muda o tom do violao sem trocar afinação  ?
+
+A Dedal
+B Capotraste *
+C Tarraxa
+D Afinador
+
+5 - Qual sigla representa o tempo da música  ?
+
+A BPM *
+B CPM 
+C ATM
+D DPM
+
+6 - Qual a frequencia mais aguda ?
+
+A 16Khz *
+B 8Khz 
+C 500Hz
+D 32Hz
+
+7 - Qual instrumento é de percussão ?
+
+A Piano
+B Guitarra
+C Violino
+D Atabaque *
+
+8 - Qual a função da bateria na banda?
+
+A Virada
+B Grave
+C Ritmo *
+D Batida
+
+9 - Qual instrumento o maestro usa?
+
+A Batuta *
+B Varinha
+C Barlo
+D Catuba
+
+10 - Qual instrumento é ?
+
+[imagem]
+
+A  Bumbo
+B  Cabasa
+C Hang *
+D cowbell

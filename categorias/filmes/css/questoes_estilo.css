@@ -1,0 +1,151 @@
+/* 
+Folha de estilo que configura o arquivo questoes.html
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+body{
+    background-color: rgb(212, 133, 248);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+div#mascote{
+    background-color: rgb(248, 245, 48);
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+    margin-top: -130px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 2px black;
+}
+
+div#quizmania{
+    background: rgb(74, 243, 74);
+    background-image: url('../img/titulo_verde.png');
+    background-size: cover;
+    text-align: center;
+    min-width: 320px;
+    max-width: 1300px;
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    margin-top: 10px;
+    border-radius: 20px;
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+    box-shadow: 10px 10px 1px rgba(0, 0, 0, 0.664);
+
+}
+h1{
+    text-align: center;
+    margin-top: -10px;
+}
+div#secao{
+    background-color: rgba(243, 10, 10, 0.801);
+    min-width: 320px;
+    max-width: 800px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 14px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 1px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 6px black;
+}
+
+div#questao{
+    background-color: rgb(247, 118, 14);
+    color:black;
+    text-align: left;
+    min-width: 320px;
+    max-width: 800px;
+    height: 100px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 6px rgb(8, 8, 8);
+    font-family: normal Arial;
+    font-size: 15pt;
+    margin-top: -10px;
+}
+div#alternativas{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+button#alt1{
+    background-color: #f3bf2e;
+    width: 500px;
+    height: 80px;
+    /*margin-left: 150px;*/
+    border-radius: 90px;
+    margin-top: -10px;
+    box-shadow: 2px 2px 2px black;
+    font-family: normal Arial;
+    font-size: 20pt;
+    cursor: pointer;
+}
+
+button#alt2{
+    background-color: #f3bf2e;
+    width: 500px;
+    height: 80px;
+    /*margin-left: 150px;*/
+    border-radius: 90px;
+    box-shadow: 2px 2px 2px black;
+    font-family: normal Arial;
+    font-size: 20pt;
+    cursor: pointer;
+}
+
+button#alt3{
+    background-color: #f3bf2e;
+    width: 500px;
+    height: 80px;
+    /*margin-left: 150px;*/
+    border-radius: 90px;
+    box-shadow: 2px 2px 2px black;
+    font-family: normal Arial;
+    font-size: 20pt;
+    cursor: pointer;
+}
+
+button#alt4{
+    background-color: #f3bf2e;
+    width: 500px;
+    height: 80px;
+    /*margin-left: 150px;*/
+    border-radius: 90px;
+    box-shadow: 2px 2px 2px black;
+    font-family: normal Arial;
+    font-size: 20pt;
+    cursor: pointer;
+}
+
+p#txtPergunta{
+    margin-left: 10px;
+}
+
+strong#pontos{
+text-align: center;
+font-size: 80pt;
+}
+p#txtPontos{
+    text-align: center;
+}
+p#mensagemPont{
+    font-family: normal Arial;
+    font-size: 30pt;
+    text-align: center;
+    margin-top: 130px;
+}
+
+a{
+    color:black;
+    text-decoration: none;
+}
+
+div#rodape{
+    background: chocolate;
+}

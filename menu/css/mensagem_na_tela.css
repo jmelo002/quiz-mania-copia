@@ -1,0 +1,54 @@
+/* 
+Folha de estilo que configura o arquivo mensagem_na_tela.html
+*/
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+body{
+    background-color: rgb(255, 0, 0);
+}
+
+div#principal{
+    background-color: black;
+    min-width: 330px;
+    max-width: 1000px;
+    min-height: 450px;
+    
+    margin: auto;
+    margin-top: 100px;
+    padding: 1px;
+    border-radius: 10px;
+}
+
+div#divImg{
+    background-color: rgb(0, 0, 0);
+    width: 330px;
+    height: 320px;
+    float: left;
+    border-radius: 10px;
+}
+
+p#mensagem{
+    
+    color:rgb(255, 255, 255);
+    text-align: justify;
+    /*margin-left: 340px;*/
+    margin-top: 60px;
+    padding: 10px;
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 20pt;
+}
+
+strong{
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 25pt;
+}
+
+img#alerta{
+    width: 320px;
+    height: 266px;
+    margin-top: 50px;
+    margin-left: 3px;
+}
+
+a{
+    text-decoration: none;
+}

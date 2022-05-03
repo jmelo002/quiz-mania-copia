@@ -1,4 +1,25 @@
 @media screen and (max-width: 824px){
+    div#quizmania{
+        background: rgb(74, 243, 74);
+        background-image: url('../img/titulo_verde.png');
+        text-align: center;
+        min-width: 320px;
+        max-width: 1300px;
+        height: 80px;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 10px;
+        margin-top: 10px;
+        border-radius: 20px;
+        font-family: 'Pacifico', cursive;
+        font-size: 15pt;
+        box-shadow: 10px 10px 1px rgba(0, 0, 0, 0.664);
+    
+    }
+    h1{
+        text-align: center;
+        margin-top: -10px;
+    }
     button#alt1{
         background-color: #D3D3D3;
         max-width: 370px;
@@ -45,6 +66,27 @@
     }
 }
 @media screen and (max-width: 752px){
+    div#quizmania{
+        background: rgb(74, 243, 74);
+        background-image: url('../img/titulo_verde.png');
+        text-align: center;
+        min-width: 320px;
+        max-width: 1300px;
+        height: 80px;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 10px;
+        margin-top: 10px;
+        border-radius: 20px;
+        font-family: 'Pacifico', cursive;
+        font-size: 13pt;
+        box-shadow: 10px 10px 1px rgba(0, 0, 0, 0.664);
+    
+    }
+    h1{
+        text-align: center;
+        margin-top: -10px;
+    }
     button#alt1{
         background-color: #D3D3D3;
         max-width: 300px;
@@ -103,9 +145,13 @@
         margin-top: 10px;
         border-radius: 20px;
         font-family: 'Pacifico', cursive;
-        font-size: 20px;
+        font-size: 12pt;
         box-shadow: 10px 10px 1px rgba(0, 0, 0, 0.664);
     
+    }
+    h1{
+        text-align: center;
+        margin-top: -10px;
     }
 
     div#questoes{
@@ -190,7 +236,33 @@
         margin-top: 90px;
     }
 }
+@media screen and (max-width:621px){
+    h1{
+        text-align: center;
+        margin-top: -20px;
+    }
+}
 @media screen and (max-width: 568px){
+    div#quizmania{
+        background: rgb(74, 243, 74);
+        background-image: url('../img/titulo_verde.png');
+        text-align: center;
+        min-width: 320px;
+        max-width: 1300px;
+        height: 80px;
+        margin-left: 25px;
+        padding-top: 10px;
+        margin-top: 10px;
+        border-radius: 20px;
+        font-family: 'Pacifico', cursive;
+        font-size: 10pt;
+        box-shadow: 10px 10px 1px rgba(0, 0, 0, 0.664);
+    
+    }
+    h1{
+        text-align: center;
+        margin-top: -10px;
+    }
     button#alt1{
         background-color: #D3D3D3;
         max-width: 210px;
@@ -249,13 +321,13 @@
         margin-top: 10px;
         border-radius: 20px;
         font-family: 'Pacifico', cursive;
-        font-size: 15px;
+        font-size: 10pt;
         box-shadow: 10px 10px 1px rgba(0, 0, 0, 0.664);
     }
 
     h1{
         text-align: center;
-    margin-top: 10px;
+        margin-top: -10px;
     }
 
     div#secao{
